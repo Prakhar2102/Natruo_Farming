@@ -14,7 +14,7 @@ def meand(x):
     return y
 
 
-st.title("Naturo Intelligent Farming")
+st.title("Naturo Farming")
 st.markdown(
     """
     ### Based on Precision agriculture :- 
